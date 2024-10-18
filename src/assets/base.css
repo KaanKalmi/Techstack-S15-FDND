@@ -14,16 +14,14 @@
 
 * {
   box-sizing: border-box;
-  margin: 0;
+  margin-inline: 4px;
+  margin-block: 0;
   font-weight: normal;
 }
 
 body {
-  color: var(--white);
-  background: var(--attention);
-  transition:
-    color 0.5s,
-    background-color 0.5s;
+  color: var(--attention);
+  background: var(--lavender);
   line-height: 1.6;
   font-family: sans-serif;
   font-size: 15px;
@@ -32,9 +30,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media (prefers-color-scheme: light) {
-body {
-  color: var(--attention);
-  background: var(--white);
-}
+main{
+  background-color: var(--white);
 }
