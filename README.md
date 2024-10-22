@@ -8,10 +8,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/ch
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
+  * [argumentatie](#argumentatie)
   * [Licentie](#licentie)
 
 ## Beschrijving
@@ -19,8 +16,11 @@ Maak een FDND Programma pagina waarin de eindgebruikers informatie kunnen vinden
 
 ![image](https://github.com/user-attachments/assets/09ffeef5-1105-496c-90f6-07ae805b8b48)
 
+## Argumentatie
 
-## Kenmerken
+**Standpunt**
+- Vue/Nuxt is abnormaal slecht zoals (bijna) elk ander framework...
+
 **Welke framework heb ik moeten gebruiken voor de FDND Programma microsite, Vue of Nuxt?**
 - Antwoord: Nuxt, omdat nuxt SSR (ServerSide Rendering) toestaat en Vue niet.
 
@@ -46,12 +46,6 @@ Maak een FDND Programma pagina waarin de eindgebruikers informatie kunnen vinden
 - Debugging is lastig
 - Kleine community
 - Slechte documentatie 
-
-## Installatie
-
-## Gebruik
-
-## Bronnen
 
 ## Licentie
 
